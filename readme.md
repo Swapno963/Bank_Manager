@@ -1,0 +1,1 @@
+# when user register he will login automatically

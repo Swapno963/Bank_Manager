@@ -46,3 +46,4 @@ class UserRegistrationForm(UserCreationForm): # user data fillup korbe akta form
                 birth_date = birth_date,
                 account_no = 100000 + our_user.id 
             )
+        return our_user
